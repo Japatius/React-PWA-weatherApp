@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.weather-container {
+    text-align: center;
+    padding: 2%;
+}
+
+.weather-data {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 5px;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.container {
+    border: 1px solid lightblue;
+    border-radius: 4px;
+    background-color: rgba(147, 188, 255, 0.5);
+}
+
+.img-bg {
+    background-image: url("../images/backImage.jpg");
+    height: 1080px;
+}
+
+.centered {
+    padding: 10px;
+    text-align: center;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-input {
+    border: none;
+    background-color: rgba(0,70,100, 0.1);
+    border-bottom: 1px solid blue;
+    padding: 10px;
+}
+
+.text-input::placeholder {
+    color: white;
+}
+
+.input-pos {
+    text-align: center;
+}
+
+#title {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+#header{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+#description {
+    color: white;
+}
